@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:\\\\Users\\\\Para Yanadaiah\\\\Desktop\\\\clgbites-appUI-claudecode *)",
+      "Bash(python *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(dir /b)",
+      "Bash(taskkill //F //IM node.exe //T)",
+      "Bash(taskkill //F //PID 20532)",
+      "Bash(netstat -ano)"
+    ]
+  }
+}
